@@ -1,4 +1,4 @@
-All data engineering, from the underlying Snowflake system that feeds the analysis, to analysis design, data wrangling in Python, to Tableau design and analysis iteration with the Marketing and Sales Execs to produce a Marketing case study showcasing insights based on Kinetiq's platform.
+Led end-to-end data pipeline—Snowflake to Python to Tableau—partnering with Marketing & Sales to uncover growth-driving insights in a Kinetiq case study.
 
 🏀 What can ad detection reveal about March Madness? 🏀 
 
